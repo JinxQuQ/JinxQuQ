@@ -30,6 +30,12 @@
   </tr>
 </table>
 
+## 工程现场的日常
+
+![GitLab 每日活动图](./assets/gitlab-activity.svg)
+
+公司 GitLab 上的日常：推送、合并请求、Issue 与评论。仅展示每日活动总数，按 UTC+8 统计，不包含项目与代码内容。
+
 ## 42
 
 <div align="center">
