@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="232" viewBox="0 0 900 232" role="img" aria-labelledby="title desc">
 <title id="title">GitLab activity — lihui</title>
-<desc id="desc">3808 activity events in the past 365 days. Daily totals only; includes pushes, merge requests, issues and comments.</desc>
+<desc id="desc">3919 activity events in the past 365 days. Daily totals only; includes pushes, merge requests, issues and comments.</desc>
 <rect width="900" height="232" rx="12" fill="#ffffff" stroke="#d8dee4"/>
 <g font-family="Arial, sans-serif" fill="#24292f">
 <text x="24" y="30" font-size="18" font-weight="600">GitLab activity</text>
-<text x="876" y="30" text-anchor="end" font-size="13">3,808 events · 143 active days</text>
+<text x="876" y="30" text-anchor="end" font-size="13">3,919 events · 144 active days</text>
 <text x="24" y="92" font-size="11" fill="#656d76">Mon</text>
 <text x="24" y="122" font-size="11" fill="#656d76">Wed</text>
 <text x="24" y="152" font-size="11" fill="#656d76">Fri</text>
-<rect x="70" y="65" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-10-26: 0 events</title></rect>
 <rect x="70" y="80" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-10-27: 0 events</title></rect>
 <rect x="70" y="95" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-10-28: 0 events</title></rect>
 <rect x="70" y="110" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-10-29: 0 events</title></rect>
@@ -385,7 +384,8 @@
 <rect x="835" y="140" width="12" height="12" rx="2" fill="#343568"><title>2026-10-23: 86 events</title></rect>
 <rect x="835" y="155" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-10-24: 0 events</title></rect>
 <rect x="850" y="65" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-10-25: 0 events</title></rect>
-<text x="24" y="193" font-size="12" fill="#656d76">2025-10-26 — 2026-10-25 · UTC+08:00 · Updated 2026-10-25</text>
+<rect x="850" y="80" width="12" height="12" rx="2" fill="#343568"><title>2026-10-26: 111 events</title></rect>
+<text x="24" y="193" font-size="12" fill="#656d76">2025-10-27 — 2026-10-26 · UTC+08:00 · Updated 2026-10-26</text>
 <text x="24" y="215" font-size="11" fill="#656d76">Pushes, merge requests, issues &amp; comments · Daily event totals, not commit counts</text>
 <text x="735" y="193" font-size="11" fill="#656d76">Less</text>
 <rect x="764" y="182" width="12" height="12" rx="2" fill="#ebedf0"/>
