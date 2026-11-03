@@ -8,7 +8,6 @@
 <text x="24" y="92" font-size="11" fill="#656d76">Mon</text>
 <text x="24" y="122" font-size="11" fill="#656d76">Wed</text>
 <text x="24" y="152" font-size="11" fill="#656d76">Fri</text>
-<rect x="70" y="80" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-03: 0 events</title></rect>
 <rect x="70" y="95" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-04: 0 events</title></rect>
 <rect x="70" y="110" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-05: 0 events</title></rect>
 <rect x="70" y="125" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-06: 0 events</title></rect>
@@ -385,7 +384,8 @@
 <text x="850" y="54" font-size="11" fill="#656d76">Nov</text>
 <rect x="850" y="65" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-11-01: 0 events</title></rect>
 <rect x="850" y="80" width="12" height="12" rx="2" fill="#343568"><title>2026-11-02: 39 events</title></rect>
-<text x="24" y="193" font-size="12" fill="#656d76">2025-11-03 — 2026-11-02 · UTC+08:00 · Updated 2026-11-02</text>
+<rect x="850" y="95" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-11-03: 0 events</title></rect>
+<text x="24" y="193" font-size="12" fill="#656d76">2025-11-04 — 2026-11-03 · UTC+08:00 · Updated 2026-11-03</text>
 <text x="24" y="215" font-size="11" fill="#656d76">Pushes, merge requests, issues &amp; comments · Daily event totals, not commit counts</text>
 <text x="735" y="193" font-size="11" fill="#656d76">Less</text>
 <rect x="764" y="182" width="12" height="12" rx="2" fill="#ebedf0"/>
